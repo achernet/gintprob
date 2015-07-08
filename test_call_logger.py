@@ -19,6 +19,5 @@ class TestCallLogger(unittest2.TestCase):
         self.assertEquals(0, secondResult)
 
 
-
 if __name__ == '__main__':  # pragma: no cover
     unittest2.main()
